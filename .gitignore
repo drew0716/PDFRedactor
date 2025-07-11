@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+
+# Virtual environment
+venv/
+env/
+redactor-env/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# macOS / Linux
+.DS_Store
+*.swp
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
+*.sqlite3
+
+# PDFs / preview files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+output/
+downloads/
+*.bak
