@@ -4,8 +4,6 @@
 
 RedactIQ helps you scan and redact sensitive content from PDFs with the help of Claude AI and built-in regex detection. It's designed for professionals and teams that need fast, intelligent redaction of PII, PHI, and other confidential information.
 
-![RedactIQ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Font_Awesome_5_regular_user-shield.svg/512px-Font_Awesome_5_regular_user-shield.svg.png)
-
 ---
 
 ### 🚀 Features
@@ -26,6 +24,15 @@ RedactIQ helps you scan and redact sensitive content from PDFs with the help of 
    - Checkboxes to confirm what gets redacted
    - Page number, reason, and risk level (🔴/🟡/🟢)
 4. Apply redactions and download your cleaned PDF.
+
+---
+
+## 🚀 Try the App
+
+🔺 **[Launch RedactIQ](https://redactiq.streamlit.app)**
+
+> **Note:** Access to the hosted version is currently limited.
+> Contact [Drew](mailto:drew0716@gmail.com) to request access.
 
 ---
 
