@@ -41,3 +41,4 @@ Thumbs.db
 output/
 downloads/
 *.bak
+.streamlit/secrets.toml
