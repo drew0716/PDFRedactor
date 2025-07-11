@@ -1,0 +1,5 @@
+streamlit>=1.35.0
+PyMuPDF>=1.24.0
+pandas>=2.2.0
+streamlit-aggrid>=0.3.4.post3
+anthropic>=0.20.0
